@@ -14,4 +14,5 @@ This equation models logistic growth, and the goal is to recover the solution wi
 
 ## Outcome
 
-Through symbolic regression, we can eventually express the function in closed form, successfully recovering the original equation from the neural network's approximation
+Through symbolic regression, we can eventually express the function in closed form, successfully recovering the original equation from the neural network's approximation.
+(Highest scoring solution of symbolic regression is  inv(1.0006227 + inv(exp(x0))))
